@@ -22,3 +22,8 @@ How would branches help?
 	When I want to add some experimental features or to make another parallel version. 
 	Branches can seperate versions and allow me to implement other versions without 
 	affecting the master (i.e., main) version.
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams can show relations between branches. It can also show which commit or commits 
+	does a branch have.
