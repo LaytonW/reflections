@@ -33,3 +33,8 @@ the way we do?
 
 	Fortunately, we can combine the features of both branches. It's direct and easy to 
 	understand.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: If there is no conflic, Git can automaticlly merge the branches.
+	Cons: With conflics, Git requires you to manually resolve them.
