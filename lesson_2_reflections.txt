@@ -10,3 +10,8 @@ do you think it offers?
 	to make into a commit. While the working directory contains all the files and the 
 	repository contains only the commited ones. It allows you to choose and adjust files in 
 	a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Add only related file changes (i.e., changes due to the same logical need) to the 
+	staging area once.
