@@ -27,3 +27,9 @@ How do the diagrams help you visualize the branch structure?
 
 	Diagrams can show relations between branches. It can also show which commit or commits 
 	does a branch have.
+
+What is the result of merging two branches together? Why do we represent it in the diagram 
+the way we do?
+
+	Fortunately, we can combine the features of both branches. It's direct and easy to 
+	understand.
