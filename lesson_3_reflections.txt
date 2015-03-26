@@ -24,3 +24,12 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	If changes were made both on GitHub and local directory, or on different computers, 
 	such copy can correctly track the commits.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+
+	Without Git or GitHub, I would distribute different parts of the project for members to 
+	work on. After finishing all the work, we meet and combine our individual works 
+	together manually. It would be easier to finish the work without concerning about 
+	'commiting' something etc. But it would be harder to combine all the works together 
+	and to control versions.
