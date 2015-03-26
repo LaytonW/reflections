@@ -19,3 +19,8 @@ instead of another?
 	locally. Branches are used when working as a group on different parts of a project or
 	when adding potential features which I don't want to include in the official version 
 	while developing.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	If changes were made both on GitHub and local directory, or on different computers, 
+	such copy can correctly track the commits.
