@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 	When I'm working on a group project or I'm not using my own computer. Then I'd like to store the repository in the 
 	cloud.
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+	Because I usually do debug with or add new features to my local files. I absulotly 
+	don't want my changes erased by Git auto-pulling.
