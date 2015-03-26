@@ -8,3 +8,14 @@ stay up-to-date with your remote repository?
 
 	Because I usually do debug with or add new features to my local files. I absulotly 
 	don't want my changes erased by Git auto-pulling.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+	Forks are copies of repository/repositories on GitHub, with reference to the original 
+	one/ones. Clones are copies of repository/repositories in local workspace. Branches 
+	are different stages within a single repository. Forks are used when I want to derive 
+	my own version of someone else's project. Clones are used to store the repository 
+	locally. Branches are used when working as a group on different parts of a project or
+	when adding potential features which I don't want to include in the official version 
+	while developing.
