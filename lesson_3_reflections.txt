@@ -33,3 +33,11 @@ be harder?
 	together manually. It would be easier to finish the work without concerning about 
 	'commiting' something etc. But it would be harder to combine all the works together 
 	and to control versions.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	I'd like to make changes in a separete branch when I don't want the changes to affect 
+	the master branch. For example build another version with another language. Working 
+	in a separate branch allows me to control when to merge them together. While directly 
+	working in master branch saves time to do merging or conflics resolving.
